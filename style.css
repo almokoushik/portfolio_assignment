@@ -1,0 +1,151 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    color: #363958;
+    text-transform: none;
+}
+h1{
+    font-size: 80px;
+    font-weight:400;
+    margin-bottom: 0;  
+}
+h2{
+    font-size: 48px;
+}
+h3{
+    font-size: 30px;
+    
+}
+h4{
+    font-size: 28px;
+}
+h5{
+    font-size: 20px;
+}
+section{
+    height: 1080px;
+    border: 1px solid navy;
+}
+header{
+    height: 100px;
+}
+.top-menu{
+    float: right;
+    margin-right: 150px;
+    height: 40px;
+}
+.top-menu-list{
+    text-decoration: none;
+    margin:10px;
+    padding: 10px;
+    color: black;
+}
+.top-menu-item{
+    float: left;
+    list-style: none;
+}
+.parallel-section{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+}.half-width{
+    margin-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    height: 500px;
+}
+.tomato-heighlight{
+    color: #FB6D59;
+}
+.link-button{
+    text-decoration: none;
+    border: 1px solid navy;
+    padding: 15px 45px;
+    background-color:#FB6D59;
+    border-radius: 8px;
+    color: whitesmoke;
+
+}
+p{
+    margin-bottom: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+.pic1{
+    margin-top: 15%;
+    padding-top: 15%;
+}
+.parallel-section2{
+    margin-top: 12%;
+}
+.project{
+    padding-top: 3%;
+    background-color:#d4d4d4;
+    height: 600px;
+}
+.project h2{
+    text-align: center;
+}
+.project-menu{
+    margin: 5% 10%;
+}
+.project-element{
+    width: 30%;
+    float: left;
+    box-sizing: border-box;
+    height: 28%;
+    background-color: whitesmoke;
+    margin :0px 10px;
+    border-radius: 10px;
+    padding-left: 2%;
+}
+.project-element img{
+    width: 80%;
+}
+.work-inquary{
+    height: 200px;
+    margin: 5% 15%;
+    background-image: url("shapes/Group_33094_1.png");
+    border-image-width: 100%;
+    background-position: center;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    border: 2px solid red;
+}
+.work-inquary a{
+    float: right;
+    margin: 15% 15% 0% 0%;
+}
+.work-inquary h2{
+    color:whitesmoke;
+    text-align: left;
+    margin: 15% 0% 0% 10%;
+}
+.work{
+    width: 50%;
+    float: left;
+}
+.link-icon{
+    height: 50px;
+    width: 50px;
+    margin: 0% 3%;
+}
+.stay-connected{
+    margin: 0% 35%;
+}
+.t_align_center{
+    text-align: center;
+}
+footer{
+    height: 100px;
+    margin-top: 2%;
+    background-color:#8255ec;
+}
+.footer-contact{
+   padding-top: .03px;
+   color: rgb(255, 255, 255);
+
+}
