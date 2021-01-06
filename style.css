@@ -21,10 +21,11 @@ h4{
 }
 h5{
     font-size: 20px;
+    margin-bottom: 0;
 }
 section{
     height: 1080px;
-    border: 1px solid navy;
+   
 }
 header{
     height: 100px;
@@ -45,10 +46,16 @@ header{
     list-style: none;
 }
 .parallel-section{
-    width: 40%;
+    width: 43%;
     float: left;
     margin-left: 7%;
-}.half-width{
+}
+.parallel-section-right{
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.half-width{
     margin-left: 5%;
 }
 .half-width img{
@@ -107,13 +114,11 @@ p{
 }
 .work-inquary{
     height: 200px;
-    margin: 5% 15%;
+    margin: 7% 15%;
     background-image: url("shapes/Group_33094_1.png");
-    border-image-width: 100%;
-    background-position: center;
+    background-size: 100%;
     border-radius: 20px;
-    background-repeat: no-repeat;
-    border: 2px solid red;
+
 }
 .work-inquary a{
     float: right;
@@ -135,6 +140,7 @@ p{
 }
 .stay-connected{
     margin: 0% 35%;
+    padding-top: 0;
 }
 .t_align_center{
     text-align: center;
